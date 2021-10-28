@@ -1,5 +1,5 @@
 # Linear Regression : ![](https://github.com/b5397/Awesome-Machine-Basic/blob/main/Supervised%20Learning/Linear%20Regression/Images/Linear_regression.png)
-Linear regression is one of the ways to perform predictive analysis. It is used to examine regression estimates.
+**Linear regression is one of the ways to perform predictive analysis. It is used to examine regression estimates.**
 
 The regression estimates explain the relationship between one dependent variable and one or more independent variables. The same is represented in the below equation.
 The formula for linear Regression:
