@@ -5,6 +5,8 @@ The regression estimates explain the relationship between one dependent variable
 The formula for linear Regression:
 
 y = mx + c
+
+
 Why we Use Linear Regression?
 Linear regression is used to perform regression analysis. Below are the uses of regression analysis.
 Help determine the strength of Predictors: This technique is used in sales and marketing.  Predictive analysis helps in understanding the relationship between the predictor and outcome variable (i.e. dose and effect).
