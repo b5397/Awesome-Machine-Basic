@@ -5,7 +5,11 @@ The regression estimates explain the relationship between one dependent variable
 The formula for linear Regression:
 
 y = mx + c
-
+where,
+y = Dependent Variable
+m = Slope (Gradient)
+x = Dependent Variable
+b = Intercept
 
 Why we Use Linear Regression?
 Linear regression is used to perform regression analysis. Below are the uses of regression analysis.
